@@ -1,0 +1,6 @@
+{
+  "Address"        : "192.168.43.95:8090",
+  "ReadTimeout"    : 10,
+  "WriteTimeout"   : 600,
+  "Static"         : "static"
+}
